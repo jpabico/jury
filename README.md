@@ -3,7 +3,7 @@
 #Jury
 ====
 
-Jon P, Aki S, Butler B, Adam R, Kevin K
+Jon P, Aki S, Butler B, Adam R, Kevin K...
 
 ##Description of Project
 ======================
